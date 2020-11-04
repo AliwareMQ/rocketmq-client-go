@@ -19,7 +19,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/apache/rocketmq-client-go/core"
+	"github.com/AliwareMQ/rocketmq-client-go/core"
 )
 
 func sendMessage(config *rocketmq.ProducerConfig) {

@@ -18,7 +18,7 @@
 package main
 
 import (
-	"github.com/apache/rocketmq-client-go/core"
+	"github.com/AliwareMQ/rocketmq-client-go/core"
 	"gopkg.in/alecthomas/kingpin.v2"
 	"os"
 )

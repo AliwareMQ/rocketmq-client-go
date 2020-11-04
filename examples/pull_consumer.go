@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/apache/rocketmq-client-go/core"
+	"github.com/AliwareMQ/rocketmq-client-go/core"
 )
 
 func consumeWithPull(config *rocketmq.PullConsumerConfig, topic string) {

@@ -22,7 +22,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/apache/rocketmq-client-go/core"
+	"github.com/AliwareMQ/rocketmq-client-go/core"
 )
 
 type queueSelectorByOrderID struct{}

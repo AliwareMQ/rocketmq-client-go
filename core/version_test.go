@@ -22,6 +22,6 @@ import (
 )
 
 func TestGetVersion(test *testing.T) {
-	expect := "Go Client V1.2.4, Support CPP Core:V1.2.X"
+	expect := "Go Client V1.2.5, Support CPP Core:V1.2.X"
 	assert.Equal(test, expect, GetVersion())
 }

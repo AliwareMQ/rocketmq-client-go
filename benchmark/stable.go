@@ -26,7 +26,7 @@ import (
 	"syscall"
 	"time"
 
-	rocketmq "github.com/apache/rocketmq-client-go/core"
+	rocketmq "github.com/AliwareMQ/rocketmq-client-go/core"
 )
 
 type stableTest struct {
